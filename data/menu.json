@@ -1,0 +1,80 @@
+{
+  "cafe_name": "Cafe Sambuca",
+  "menu_categories": [
+    {
+      "category": "Snacks & Appetizers",
+      "items": [
+        {
+          "name": "Mozzarella-Sticks",
+          "price": "5.00",
+          "description": "Crispy breaded mozzarella sticks"
+        },
+        {
+          "name": "Chicken Wings",
+          "price": "5.00",
+          "description": "Spicy chicken wings with dipping sauce"
+        }
+      ]
+    },
+    {
+      "category": "Soups",
+      "items": [
+        {
+          "name": "Minestrone",
+          "price": "3.00",
+          "description": "Classic Italian vegetable soup"
+        }
+      ]
+    },
+    {
+      "category": "Pasta",
+      "items": [
+        {
+          "name": "Penne al Forno",
+          "price": "5.00",
+          "description": "Baked penne pasta with cheese"
+        }
+      ]
+    },
+    {
+      "category": "Mexican Dishes",
+      "items": [
+        {
+          "name": "Chili Con Carne",
+          "price": "4.00",
+          "description": "Hearty beef chili with beans"
+        }
+      ]
+    },
+    {
+      "category": "Beverages",
+      "items": [
+        {
+          "name": "Beer Specialties",
+          "price": "Various",
+          "description": "Large selection of German and international beers"
+        },
+        {
+          "name": "Soft Drinks",
+          "price": "2.50",
+          "description": "Coca-Cola, Fanta, Sprite, and more"
+        },
+        {
+          "name": "Coffee",
+          "price": "2.00",
+          "description": "Freshly brewed coffee"
+        }
+      ]
+    }
+  ],
+  "specialties": [
+    "Beer Specialties (Bierspezialitäten)",
+    "Sky Sports Viewing",
+    "Casual Bar Snacks",
+    "Affordable Prices (€6 average)"
+  ],
+  "price_range": "€ - €€",
+  "average_price": "6.00",
+  "total_menu_items": 243,
+  "note": "Extensive menu with 243 items. Prices shown are representative samples."
+}

@@ -1,0 +1,45 @@
+{
+  "cafe_name": "Cafe Sambuca",
+  "google_rating": "4.5",
+  "total_reviews": 22,
+  "rating_breakdown": {
+    "5_star": 16,
+    "4_star": 3,
+    "3_star": 1,
+    "2_star": 1,
+    "1_star": 1
+  },
+  "reviews": [
+    {
+      "author": "Regular Customer",
+      "rating": 5,
+      "text": "Tolga ist ein sehr netter Chef und seine Mitarbeiter auch. Ich kann dieses Café bzw. diese Sportsbar nur empfehlen. Wir kommen regelmäßig aus Thüringen hierher.",
+      "text_en": "Tolga is a very nice boss and so are his employees. I can only recommend this cafe or sports bar. We come here regularly from Thuringia.",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Local Visitor",
+      "rating": 5,
+      "text": "Nice, local bar with nice staff for casual German hangouts.",
+      "date": "2024",
+      "language": "en"
+    },
+    {
+      "author": "Sports Fan",
+      "rating": 5,
+      "text": "Perfekt für Sky Sport! Gute Atmosphäre, freundliches Personal und faire Preise.",
+      "text_en": "Perfect for Sky Sports! Good atmosphere, friendly staff and fair prices.",
+      "date": "2024",
+      "language": "de"
+    }
+  ],
+  "highlights": [
+    "Friendly owner Tolga and staff",
+    "Sky Sports broadcasts",
+    "Casual local atmosphere",
+    "Affordable prices",
+    "Beer specialties",
+    "Worth traveling for"
+  ]
+}
